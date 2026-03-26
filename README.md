@@ -1,9 +1,6 @@
 Please check the latest version
 
-# Business Insights Analyst test:
-
-Thank you for the opportunity to participate in this assessment. Below are the details of the steps and considerations for each assignment. Please feel free to reach out if you require any clarification or further information.
-
+# 2024 Fast Food Segment Analysis:
 
 ### Assignment 1:
 
