@@ -1,23 +1,37 @@
-Please check the latest version
-
 # 2024 Fast Food Delivery Performance & Growth Strategy Analysis
 
-### Assignment 1:
+In a highly saturated food delivery market, understanding the underlying drivers of growth is critical for maintaining market share. This project was initiated to dissect the performance of Fast food segment, identifying why certain brands outperformed others, where efficiency was being lost, and in which way resources should be allocated to the most promising growth levers
 
-#### Data Processing
+### What project has achieved:
+
+- **Market Growth & Issue Identification:** Developed a comprehensive performance report to pinpoint growth drivers and operational bottlenecks within Fast Food segment of a food delivery platform.
+- **Advanced Analytics Stack:** Leveraged Power BI (DAX) to build dynamic visualizations and track key business metrics.
+- **Data Storytelling & Stakeholder Engagement:** Synthesized complex datasets into a cohesive PowerPoint narrative, delivering actionable strategic "scripts" to Marketing and Demand Planning teams to drive data-led decision-making.
+
+## File reading instructions
+### /Assignment 1:
+
+#### Analytical Engine & Monitoring
+File: 2024 Fast Food Analysis.pbix
 (For granular details on transformations, please refer to the applied steps in the built-in Power Query)
+- Purpose: This is the "Engine" of the project.
 
-* **Data Consistency:** To ensure uniformity across all tables, I've added the prefix 'Brand' to the `brand` column in the `Items_sold` table, aligning it with the naming conventions used in the other two tables.
-* **Table Structure Optimization:** Two out of the three provided tables were already in an optimal format for data modeling and analysis. However, the `Outlet` table was in a crosstab (pivot/matrix/wide) format. I've unpivoted this table into a long format, which is significantly more suitable for effective use within Power BI.
-* **Unified Data Model:** All three tables share three common columns: `month`, `brand`, and `area`. These columns serve as the primary keys for their respective tables. I leveraged these common keys to merge all three tables into a single comprehensive table named `Perf details`.
-* **Data Scope Consideration:** It's important to note that the `Items_sold` table only contains data for the year **2024**. Consequently, for all rows pertaining to the year **2023** in the `Perf details` table, the corresponding `number of items sold` column will display **null** or **0** values.
+- Analysis: All figures presented in the final report are calculated here using DAX for dynamic analysis.
 
-#### Data Analysis
+- Monitoring: It serves as a dashboard for stakeholders to monitor performance of segment health.
 
-* **Tool of Choice:** I utilized **Power BI** for the data analysis. I believe it's the ideal tool for this type of task and also the platform where I possess the highest proficiency.
-* **Report & Presentation:** All results and numerical findings presented in the assessment are directly exported from the Power BI report.
+#### Strategy & Storytelling
+File: Presentation - 2024 Fast Food Analysis.pptx
+
+- Purpose: The final output designed for cross-functional stakeholders (Marketing, Demand Planning).
+
+- It translates complex data into a narrative-driven story, highlighting the "Why" behind the numbers.
+
+- Includes deep-dive insights and actionable "scripts" or solutions to address identified bottlenecks.
 
 
-### Assignment 2:
+### /Assignment 2:
+Supplemental Metrics (/sql)
+- Role: Add-in / Support.
 
-Please find all relevant details and supporting files for Assignment 2 within the dedicated **`Assignment 2` folder**.
+- Purpose: Contains SQL queries used to extract specific ad-hoc metrics that complement the main analysis.
