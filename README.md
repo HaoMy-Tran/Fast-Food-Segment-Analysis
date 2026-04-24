@@ -9,6 +9,13 @@ In a highly saturated food delivery market, understanding the underlying drivers
 - **Data Storytelling & Stakeholder Engagement:** Synthesized complex datasets into a cohesive PowerPoint narrative, delivering actionable strategic "scripts" to Marketing and Demand Planning teams to drive data-led decision-making.
 
 ## File reading instructions
+### File: Business Analysis - Assignment.xlsx
+Include requirements and raw data
+<p align="left">
+   <br>
+    <img width="1478" height="877" alt="image" src="https://github.com/user-attachments/assets/04f45072-dc3c-4cff-9efd-d3e04209d091" />
+</p>
+
 ### /Assignment 1:
 
 #### Analytical Engine & Monitoring
