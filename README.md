@@ -11,10 +11,6 @@ In a highly saturated food delivery market, understanding the underlying drivers
 ## File reading instructions
 ### File: Business Analysis - Assignment.xlsx
 Include requirements and raw data
-<p align="left">
-   <br>
-    <img width="1478" height="877" alt="image" src="https://github.com/user-attachments/assets/04f45072-dc3c-4cff-9efd-d3e04209d091" />
-</p>
 
 ### /Assignment 1:
 
