@@ -1,4 +1,6 @@
 # 2024 Fast Food Delivery Performance & Growth Strategy Analysis
+tags: `Business analysis`, `Insights generation`, `Decomposition Analysis`, `Top-Down Analysis`, `Food delivery`, `data-driven storytelling`, `Power BI`, `SQL`, `PowerPoint` <br> 
+
 
 In a highly saturated food delivery market, understanding the underlying drivers of growth is critical for maintaining market share. This project was initiated to dissect the performance of Fast food segment, identifying why certain brands outperformed others, where efficiency was being lost, and in which way resources should be allocated to the most promising growth levers
 
