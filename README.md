@@ -2,12 +2,13 @@
 tags: `Business analysis`, `Insights generation`, `Decomposition Analysis`, `Top-Down Analysis`, `Food delivery`, `data-driven storytelling`, `Power BI`, `SQL`, `PowerPoint` <br> 
 
 
-In a highly saturated food delivery market, understanding the underlying drivers of growth is critical for maintaining market share. This project was initiated to dissect the performance of Fast food segment, identifying why certain brands outperformed others, where efficiency was being lost, and in which way resources should be allocated to the most promising growth levers
+In a highly saturated food delivery market, understanding the underlying drivers of growth is critical for users' demand understanding. This project was initiated to dissect the performance of Fast food segment, identifying why certain brands outperformed others, where efficiency was being lost, and in which way resources should be allocated to the most promising growth levers
 
 ### What project has achieved:
 
-- **Market Growth & Issue Identification:** Developed a comprehensive performance report to pinpoint growth drivers and operational bottlenecks within Fast Food segment of a food delivery platform.
-- **Advanced Analytics Stack:** Leveraged Power BI (DAX) to build dynamic visualizations and track key business metrics.
+- **Market Growth & Issue Identification:** Developed a comprehensive performance report to pinpoint growth drivers and operational bottlenecks within Fast Food segment of a food delivery platform
+- **Advanced Analytics Stack:** Leveraged Power BI (DAX) to build dynamic visualizations and track key business metrics
+- **Analytical Framework Development:** Developed an analytical framework that standardized analysis, ensured cross-project consistency, and significantly reduced time spent on future iterations
 - **Data Storytelling & Stakeholder Engagement:** Synthesized complex datasets into a cohesive PowerPoint narrative, delivering actionable strategic "scripts" to Marketing and Demand Planning teams to drive data-led decision-making.
 
 ## File reading instructions
